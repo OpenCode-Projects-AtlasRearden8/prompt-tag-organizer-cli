@@ -1,12 +1,17 @@
+
 # generated files
-__pycache__/
-*.py[cod]
+# generated local exports
 *.egg-info/
+*.py[cod]
+*.pyc
+.env
+.env.*
+.pytest_cache/
+.venv/
+__pycache__/
 build/
 dist/
-.venv/
-venv/
-.pytest_cache/
-
-# generated local exports
+dist/*.tmp
 index.html
+node_modules/
+venv/
