@@ -1,0 +1,12 @@
+# generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+
+# generated local exports
+index.html
